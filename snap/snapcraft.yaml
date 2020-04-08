@@ -1,5 +1,5 @@
 name: gpio-rpi-tool
-base: core
+#base: core
 architectures:
   - build-on: [arm64,armhf]
     run-on: [arm64,armhf]
