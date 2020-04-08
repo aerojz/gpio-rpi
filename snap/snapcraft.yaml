@@ -1,5 +1,5 @@
 name: gpio-rpi
-base: core18
+base: core
 architectures:
   - build-on: [arm64,armhf]
     run-on: [arm64,armhf]
