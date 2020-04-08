@@ -1,4 +1,4 @@
-name: gpio-rpi
+name: gpio-rpi-tool
 base: core
 architectures:
   - build-on: [arm64,armhf]
